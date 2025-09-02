@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third year PHD student in CIT at the Purdue University, supervised by Prof. Wenhai Sun.
+I am currently a third year PHD student in CIT at the Purdue University, supervised by [Prof. Wenhai Sun](https://whsun.org/).
 
 My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
