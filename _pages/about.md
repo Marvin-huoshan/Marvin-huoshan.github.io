@@ -44,6 +44,25 @@ My research covers various topics in cybersecurity, with a particular focus on p
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Neurocomputing. 2023</div>
+      <img src='images/DP-DGAE.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+- **Xiaolin Li**, Li Xu<sup>*</sup>, Hongyan Zhang, Qikui Xu.  
+  *Differential privacy preservation for graph auto-encoders: A novel anonymous graph publishing model*.  
+  *Neurocomputing*. 2023.  
+  [[PDF]](/pdf/DP-DGAE.pdf)
+
+  <small><sup>*</sup> Corresponding author.</small>
+
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing. 2023</div><img src='images/DP-DGAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,10 +90,9 @@ My research covers various topics in cybersecurity, with a particular focus on p
  
 
 # 💬 Professional Service
-
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+- Reviewer
+- INFOCOM 2026.
+- IEEE TIFS 2025, IEEE TDSC 2025, The Journal of Supercomputing 2024.
 
 
 # 🏭 Internships
