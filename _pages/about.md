@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am currently a third year PHD student in CIT at the Purdue University, supervised by Prof. Wenhai Sun.
+
+My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
 My research interest includes: 
 - Instrumentation
