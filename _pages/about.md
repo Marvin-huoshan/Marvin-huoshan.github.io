@@ -57,12 +57,12 @@ My research covers various topics in cybersecurity, with a particular focus on p
 [[PDF]](/pdf/Zhenyu_MobiMedia_23.pdf)
 
 
-- Hongyan Zhang, **Xiaolin Li**, Jiayu Xu, Li Xu<sup>*</sup>, *Graph matching based privacy-preserving scheme in social networks*. *SocialSec*. 2021.  
+- Hongyan Zhang, `Xiaolin Li`, Jiayu Xu, Li Xu, *Graph matching based privacy-preserving scheme in social networks*. *SocialSec*. 2021.  
 [[PDF]](/pdf/Hongyan_SocialSec_21.pdf)
 
 
 # 🏅 Honors and Awards
-- *2023.09* Presidential Doctoral Excellence Award in Purdue Unviersity, Purdue University
+- *2023.09*, Presidential Doctoral Excellence Award in Purdue Unviersity, Purdue University
 
 # 🎓 Educations 
 - *2016.09 - 2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian China. 
