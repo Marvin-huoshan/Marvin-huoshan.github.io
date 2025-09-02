@@ -30,7 +30,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Xiaolin Li**, Ninghui Li, Boyang Wang, Wenhai Sun<sup>*</sup>. Mitigating Data Poisoning Attacks to Local Differential Privacy. *ACM CCS*. 2025.  
+- **Xiaolin Li**, Ninghui Li, Boyang Wang, Wenhai Sun<sup>*</sup>. Mitigating Data Poisoning Attacks to Local Differential Privacy. *ACM CCS*. 2025.  
 [[PDF]](/pdf/MDPA.pdf)
 
 </div>
@@ -39,7 +39,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TETC. 2023</div><img src='images/RecPool.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Xiaolin Li**, Qikui Xu, Zhenyu Xu, Hongyan Zhang, Li Xu<sup>*</sup>. Graph Reconfigurable Pooling for Graph Representation Learning. *IEEE Transactions on Emerging Topics in Computing*. 2023. 
+- **Xiaolin Li**, Qikui Xu, Zhenyu Xu, Hongyan Zhang, Li Xu<sup>*</sup>. Graph Reconfigurable Pooling for Graph Representation Learning. *IEEE Transactions on Emerging Topics in Computing*. 2023. 
 [[PDF]](/pdf/Recpool.pdf)
 
 </div>
@@ -48,7 +48,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing. 2023</div><img src='images/DP-DGAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Xiaolin Li**, Li Xu<sup>*</sup>, Hongyan Zhang, Qikui Xu. Differential privacy preservation for graph auto-encoders: A novel anonymous graph publishing model. *Neurocomputing*. 2023. 
+- **Xiaolin Li**, Li Xu<sup>*</sup>, Hongyan Zhang, Qikui Xu. Differential privacy preservation for graph auto-encoders: A novel anonymous graph publishing model. *Neurocomputing*. 2023. 
 [[PDF]](/pdf/DP-DGAE.pdf)
 
 </div>
