@@ -63,7 +63,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 
 # 🏅 Honors and Awards
 - *2023.09* Presidential Doctoral Excellence Award in Purdue Unviersity, Purdue University
-- 
+
 # 🎓 Educations 
 - *2016.09 - 2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian China. 
 - *2020.09 - 2023.06*, Master in Cybersecurity, Fujian Normal University, Fuzhou China.
@@ -72,7 +72,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 
 # 💬 Professional Service
 - Reviewer
-- INFOCOM 2026.
-- IEEE TIFS 2025, IEEE TDSC 2025, The Journal of Supercomputing 2024.
+- - INFOCOM 2026.
+- - IEEE TIFS 2025, IEEE TDSC 2025, The Journal of Supercomputing 2024.
 
   

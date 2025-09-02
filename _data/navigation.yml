@@ -16,7 +16,7 @@ main:
     url: "/#-educations"
 
   - title: "Professional Service"
-    url: "/#-service"
+    url: "/#-professional-service"
 
-  - title: "Internships"
-    url: "/#-internships"
+  #- title: "Internships"
+   # url: "/#-internships"
