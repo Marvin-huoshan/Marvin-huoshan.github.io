@@ -29,7 +29,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Xiaolin Li**, Ninghui Li, Boyang Wang, Wenhai Sun. *Mitigating Data Poisoning Attacks to Local Differential Privacy*. *ACM CCS*. 2025.  
+- `Xiaolin Li`, Ninghui Li, Boyang Wang, Wenhai Sun. *Mitigating Data Poisoning Attacks to Local Differential Privacy*. *ACM CCS*. 2025.  
 [[PDF]](/pdf/MDPA.pdf)
 
 </div>
