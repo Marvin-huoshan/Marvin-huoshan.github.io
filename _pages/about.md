@@ -48,7 +48,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing. 2023</div><img src='images/DP-DGAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xiaolin Li`, Li Xu^*^, Hongyan Zhang, Qikui Xu. Differential privacy preservation for graph auto-encoders: A novel anonymous graph publishing model. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
+-	`Xiaolin Li`, Li Xu^*^, Hongyan Zhang, Qikui Xu. Differential privacy preservation for graph auto-encoders: A novel anonymous graph publishing model. *Neurocomputing*. 2023. 
 [[PDF]](/pdf/DP-DGAE.pdf)
 
 </div>
