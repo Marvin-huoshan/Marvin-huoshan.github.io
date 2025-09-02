@@ -21,11 +21,8 @@ I am currently a third year PHD student in CIT at the Purdue University, supervi
 
 My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
+# 🔥News
 
-# 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
- 
 
 # 📝 Publications 
 
@@ -147,6 +144,12 @@ My research covers various topics in cybersecurity, with a particular focus on p
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+
+# 🎓 Educations 
+- *2016.09 - 2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian China. 
+- *2020.09 - 2023.06*, Master in Cybersecurity, Fujian Normal University, Fuzhou China.
+- *2023.09 - Present*, Ph.D in Computer and Information Technology, Purdue University, West Lafayette USA. 
+ 
 
 # 💬 Conferences
 
