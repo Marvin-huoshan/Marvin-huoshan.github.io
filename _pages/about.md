@@ -21,15 +21,6 @@ I am currently a third year PHD student in CIT at the Purdue University, supervi
 
 My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
-My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
-
 
 # 🎓 Educations 
 - *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
