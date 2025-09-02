@@ -24,9 +24,8 @@ My research covers various topics in cybersecurity, with a particular focus on p
 # 🔥News
 
 
-# 📝 Publications 
+# 📝 Publications
 
----
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
