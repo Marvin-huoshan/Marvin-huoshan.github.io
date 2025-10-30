@@ -22,6 +22,7 @@ I am currently a third year PHD student in CIT at the Purdue University, supervi
 My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
 # 🔥 News
+- *Oct 2025*, Honored to be selected by Purdue University as an RSAC Security Scholar. Grateful for the opportunity and excited to join RSAC 2026 in San Francisco!
 - *Apr 2025*, Our paper **“Mitigating Data Poisoning Attacks to Local Differential Privacy”** was accepted to *ACM CCS 2025*! Thanks to all of my collaborators. 
 
 # 📝 Publications
@@ -63,6 +64,7 @@ My research covers various topics in cybersecurity, with a particular focus on p
 
 # 🏅 Honors and Awards
 - *2023.09*, Presidential Doctoral Excellence Award in Purdue Unviersity, Purdue University
+- *2025.10*, RSAC Security Scholar.
 
 # 🎓 Educations 
 - *2016.09 - 2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian China. 
