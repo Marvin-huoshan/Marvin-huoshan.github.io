@@ -75,6 +75,6 @@ My research covers various topics in cybersecurity, with a particular focus on p
 # 💬 Professional Service
 - Reviewer
   - INFOCOM 2026.
-  - IEEE TIFS 2025, IEEE TDSC 2025/2026, ACM TKDD 2025, The Journal of Supercomputing 2024.
+  - IEEE TIFS 2025, IEEE TDSC 2025/2026, IEEE TKDE 2026, ACM TKDD 2025, The Journal of Supercomputing 2024.
 
   
