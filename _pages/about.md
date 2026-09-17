@@ -22,10 +22,20 @@ I am currently a third year PHD student in CIT at the Purdue University, supervi
 My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
 
 # 🔥 News
+- *Sep 2026*, Our paper **“Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning”** was accepted to *IEEE S&P 2027*! Thanks to all of my collaborators.
 - *Oct 2025*, Honored to be selected by Purdue University as an RSAC Security Scholar. Grateful for the opportunity and excited to join RSAC 2026 in San Francisco!
 - *Apr 2025*, Our paper **“Mitigating Data Poisoning Attacks to Local Differential Privacy”** was accepted to *ACM CCS 2025*! Thanks to all of my collaborators. 
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/RING.png' alt="Overview of RING: coordinated perturbations conceal malicious client updates and cancel during server aggregation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- `Xiaolin Li`, Ning Wang, Ninghui Li, Wenhai Sun. *Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning*. *arXiv preprint arXiv:2606.17035*. 2026.<br>
+[[PDF]](/pdf/RING.pdf) [[arXiv]](https://arxiv.org/abs/2606.17035)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
