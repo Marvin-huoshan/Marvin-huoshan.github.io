@@ -9,14 +9,20 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Professional Service"
     url: "/#-professional-service"
+
+  - title: "CV"
+    url: "/pdf/Xiaolin_Li_CV.pdf"
 
   #- title: "Internships"
    # url: "/#-internships"
