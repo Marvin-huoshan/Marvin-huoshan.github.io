@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer and Information Technology at Purdue University, advised by [Prof. Wenhai Sun](https://whsun.org/).
 
-My research focuses on **AI security and privacy**, with current interests in **robust watermarking and provenance for generative language, speech, and audio**. I study how security and privacy mechanisms behave under adversarial manipulation, spanning differential privacy, data poisoning, backdoor attacks, and privacy-preserving machine learning. My recent work connects this foundation to reliable detection of AI-generated content after transformation.
+My research focuses on **AI security and privacy**, with current interests in **robust watermarking and provenance for generative language, speech, and audio**. I study how security and privacy mechanisms behave under adversarial manipulation, spanning differential privacy, data poisoning, backdoor attacks, and privacy-preserving machine learning. My current work develops robust watermarking for LLM-generated text, with a focus on improving detection after rewriting while preserving generation quality.
 
 [**CV (PDF)**](/pdf/Xiaolin_Li_CV.pdf)
 
@@ -87,6 +87,7 @@ Santa Clara, CA · Aug. 2026–Present
 
 **Research Assistant · Purdue University**<br>
 West Lafayette, IN · Sep. 2023–Present
+- **Robust LLM watermarking:** Develop watermarking methods for AI-generated text, studying the trade-offs among robustness to rewriting, detection reliability, and generation quality.
 - Study security and privacy in machine learning, including poisoning defenses for local differential privacy and backdoor attacks on differentially private federated learning.
 
 **Research Assistant · Fujian Normal University**<br>
