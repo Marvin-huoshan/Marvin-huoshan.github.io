@@ -21,8 +21,6 @@ I am a Ph.D. student in Computer and Information Technology at Purdue University
 
 My research focuses on **AI security and privacy**, with current interests in **robust watermarking and provenance for generative language, speech, and audio**. I study how security and privacy mechanisms behave under adversarial manipulation, spanning differential privacy, data poisoning, backdoor attacks, and privacy-preserving machine learning. My current work develops robust watermarking for LLM-generated text, with a focus on improving detection after rewriting while preserving generation quality.
 
-[**CV (PDF)**](/pdf/Xiaolin_Li_CV.pdf)
-
 # 🔥 News
 - *Sep 2026*, Our paper **“Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning”** was accepted to *IEEE S&P 2027*! Grateful to my coauthors for their dedication and support!
 - *Aug 2026*, I joined Xmotors AI in Santa Clara as a Machine Learning Engineer Intern, working on audio watermarking and provenance for generative speech and audio.
