@@ -17,31 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third year PHD student in CIT at the Purdue University, supervised by [Prof. Wenhai Sun](https://whsun.org/).
+I am a Ph.D. student in Computer and Information Technology at Purdue University, advised by [Prof. Wenhai Sun](https://whsun.org/).
 
-My research covers various topics in cybersecurity, with a particular focus on privacy and artificial intelligence. I have experience in differential privacy, graph learning, and secure data analysis. My current work explores privacy-preserving machine learning and the development of AI systems designed to ensure security and data protection in complex, networked environments.
+My research focuses on **AI security and privacy**, with current interests in **robust watermarking and provenance for generative language, speech, and audio**. I study how security and privacy mechanisms behave under adversarial manipulation, spanning differential privacy, data poisoning, backdoor attacks, and privacy-preserving machine learning. My recent work connects this foundation to reliable detection of AI-generated content after transformation.
+
+[**CV (PDF)**](/pdf/Xiaolin_Li_CV.pdf)
 
 # 🔥 News
 - *Sep 2026*, Our paper **“Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning”** was accepted to *IEEE S&P 2027*! Grateful to my coauthors for their dedication and support!
+- *Aug 2026*, I joined Xmotors AI in Santa Clara as a Machine Learning Engineer Intern, working on audio watermarking and provenance for generative speech and audio.
 - *Oct 2025*, Honored to be selected by Purdue University as an RSAC Security Scholar. Grateful for the opportunity and excited to join RSAC 2026 in San Francisco!
 - *Apr 2025*, Our paper **“Mitigating Data Poisoning Attacks to Local Differential Privacy”** was accepted to *ACM CCS 2025*! Thanks to all of my collaborators. 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/RING.png' alt="Overview of RING: coordinated perturbations conceal malicious client updates and cancel during server aggregation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&amp;P 2027</div><img src='images/RING.png' alt="Overview of RING: coordinated perturbations conceal malicious client updates and cancel during server aggregation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Xiaolin Li`, Ning Wang, Ninghui Li, Wenhai Sun. *Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning*. *arXiv preprint arXiv:2606.17035*. 2026.<br>
+- `Xiaolin Li`, Ning Wang, Ninghui Li, Wenhai Sun. *Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning*. **IEEE Symposium on Security and Privacy (S&P), 2027. Accepted.**<br>
 [[PDF]](/pdf/RING.pdf) [[arXiv]](https://arxiv.org/abs/2606.17035)
 
+Studies how differential privacy can conceal malicious updates in federated learning, exposing the limits of existing defenses against backdoor attacks.
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CCS 2025</div><img src='images/MDPA.png' alt="Overview of poisoning detection and mitigation for local differential privacy" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Xiaolin Li`, Ninghui Li, Boyang Wang, Wenhai Sun. *Mitigating Data Poisoning Attacks to Local Differential Privacy*. *ACM CCS*. 2025.  
+- `Xiaolin Li`, Ninghui Li, Boyang Wang, Wenhai Sun. *Mitigating Data Poisoning Attacks to Local Differential Privacy*. **ACM Conference on Computer and Communications Security (CCS), 2025.**<br>
 [[PDF]](/pdf/MDPA.pdf)
+
+Develops malicious-report detection and attack-resilient post-processing to mitigate poisoning and recover utility in private frequency estimation.
 
 </div>
 </div>
@@ -72,19 +79,35 @@ My research covers various topics in cybersecurity, with a particular focus on p
 [[PDF]](/pdf/Hongyan_SocialSec_21.pdf)
 
 
-# 🏅 Honors and Awards
-- *2023.09*, Presidential Doctoral Excellence Award in Purdue Unviersity, Purdue University
-- *2025.10*, RSAC Security Scholar.
+# 🔬 Research Experience
+**Machine Learning Engineer Intern · Xmotors AI**<br>
+Santa Clara, CA · Aug. 2026–Present
+- Research audio watermarking and provenance for generative speech and audio, including detection that remains reliable after audio re-encoding.
+- Develop evaluation pipelines on open speech and music models to assess robustness to compression, time shifts, and speed changes, alongside detection accuracy and audio quality.
 
-# 🎓 Educations 
-- *2016.09 - 2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian China. 
-- *2020.09 - 2023.06*, Master in Cybersecurity, Fujian Normal University, Fuzhou China.
-- *2023.09 - Present*, Ph.D in Computer and Information Technology, Purdue University, West Lafayette USA. 
+**Research Assistant · Purdue University**<br>
+West Lafayette, IN · Sep. 2023–Present
+- Study security and privacy in machine learning, including poisoning defenses for local differential privacy and backdoor attacks on differentially private federated learning.
+
+**Research Assistant · Fujian Normal University**<br>
+Fuzhou, China · Sep. 2020–Jun. 2023
+- Studied differential privacy and graph learning for privacy-preserving graph publication and representation learning.
+
+# 🏅 Honors and Awards
+- *2025.10*, Selected as an RSAC 2026 Security Scholar, Purdue University.
+- *2023.09*, Presidential Doctoral Excellence Award, Purdue University.
+
+<span class='anchor' id='-educations'></span>
+
+# 🎓 Education
+- *2023.09–Present*, Ph.D. in Computer and Information Technology, Purdue University, West Lafayette, IN, USA.
+- *2020.09–2023.06*, M.S. in Cybersecurity, Fujian Normal University, Fuzhou, China.
+- *2016.09–2020.06*, B.E. in Network Engineering, Shandong Agricultural University, Taian, China.
  
 
 # 💬 Professional Service
 - Reviewer
-  - INFOCOM 2026.
-  - IEEE TIFS 2025, IEEE TDSC 2025/2026, IEEE TKDE 2026, ACM TKDD 2025/2026, The Journal of Supercomputing 2024.
+  - IEEE INFOCOM 2026.
+  - IEEE TIFS 2025; IEEE TDSC 2025/2026; IEEE TKDE 2026; ACM TKDD 2025/2026; Journal of the Chinese Institute of Engineers 2025; The Journal of Supercomputing 2024.
 
   
